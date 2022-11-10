@@ -1,0 +1,10 @@
+
+*.graphml
+
+lecture recordings F21/
+
+karate.gml
+
+*.gz
+
+*.xml
